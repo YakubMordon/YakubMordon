@@ -74,4 +74,4 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 ---
 
-📫 You can reach out to me via: [![Telegram Badge](https://img.shields.io/badge/-jacobmordon-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Jacob_Mordon) [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Microsoft%20Outlook&logoColor=white)](mailto:jacobmordon@outlook.com)
+### 📫 You can reach out to me via: [![Telegram Badge](https://img.shields.io/badge/-jacobmordon-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Jacob_Mordon) [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Microsoft%20Outlook&logoColor=white)](mailto:jacobmordon@outlook.com)
