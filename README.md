@@ -1,4 +1,8 @@
-
+<style>
+  a{
+    text-decoration: none;
+  }
+</style>
 ### Hi, my name is Jacob!
 
 ---
