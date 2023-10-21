@@ -12,7 +12,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 🎉 Successfully completed the Practical C# course!
 
-📫 You can reach out to me via: 
+📫 You can reach out to me via: [![Telegram Badge](https://img.shields.io/badge/-jacobmordon-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Jacob_Mordon) [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Microsoft%20Outlook&logoColor=white)](mailto:jacobmordon@outlook.com)
 ---
 
 ### 🤝 Social media:
