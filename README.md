@@ -17,13 +17,13 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 ### 🤝 Social media:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/якуб-мордонь-0a6538291" target="_blank">
+    <a href="https://www.linkedin.com/in/якуб-мордонь-0a6538291" style="color:transparent;" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/jacob_mordon/" target="_blank">
+    <a href="https://www.instagram.com/jacob_mordon/" style="color:transparent;" target="_blank" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="40" height="40" alt="Instagram" />
     </a>
-    <a href="https://www.facebook.com/gamer48XDD/" target="_blank">
+    <a href="https://www.facebook.com/gamer48XDD/" style="color:transparent;" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/640px-Facebook_Logo_%282019%29.png" width="40" height="40" alt="Facebook" />
     </a>
   </div>
@@ -34,7 +34,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" style="color:#00A2ED;" alt="mssql" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
