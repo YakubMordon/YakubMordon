@@ -51,13 +51,12 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 | https://career.softserveinc.com/en-us/technology/course/practical-c                            | 08/2023 - 10/2023 |
 
 ---
-<!---
 
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/YakubMordon/badges/large)
+
 ---
--->
 
 ### ⚙️ GitHub statistics:
 
