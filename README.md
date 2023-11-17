@@ -10,7 +10,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 🎓 Currently studying at the National University "Lviv Polytechnic."
 
-🎉 Successfully completed the Practical C# course!
+🎉 Successfully completed the "Practical C#" and "Introduction to Mobile Development" courses!
 
 ---
 
@@ -48,8 +48,8 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 | Courses                                                                                        | Date              |
 | -----------------------------------------------------------------------------------------------| :---------------: |
-| https://career.softserveinc.com/en-us/technology/course/practical-c                            | 08/2023 - 10/2023 |
-
+| https://1drv.ms/b/s!Aie4Y9L_uV0sbHE4CQ8sofiI61o?e=gAv07W                                       | 08/2023 - 10/2023 |
+| https://1drv.ms/b/s!Aie4Y9L_uV0scVo5J71sS_VeKHc?e=0dfcSi                                       | 11/2023 - 11/2023 |
 ---
 
 ### 💻 Codewars:
