@@ -12,6 +12,8 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 🎉 Successfully completed the "Practical C#" and "Introduction to Mobile Development" courses!
 
+⌛  At the moment, I am taking the course "Programming with JavaScript"
+
 ---
 
 ### 🤝 Social media:
@@ -49,7 +51,8 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 | Courses                                                                                        | Date              |
 | -----------------------------------------------------------------------------------------------| :---------------: |
 | https://1drv.ms/b/s!Aie4Y9L_uV0sbHE4CQ8sofiI61o?e=gAv07W                                       | 08/2023 - 10/2023 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0scVo5J71sS_VeKHc?e=0dfcSi                                       | 11/2023 - 11/2023 |
+| https://1drv.ms/b/s!Aie4Y9L_uV0scntQwllDgTUG7iM?e=AXOHyw                                       | 11/2023 - 11/2023 |
+| ??                                                                                             | 11/2023 - ??      |
 ---
 
 ### 💻 Codewars:
