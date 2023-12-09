@@ -10,9 +10,9 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 🎓 Currently studying at the National University "Lviv Polytechnic."
 
-🎉 Successfully completed the "Practical C#" and "Introduction to Mobile Development" courses!
+🎉 Successfully completed the "Practical C#" course!
 
-⌛  At the moment, I am taking the course "Programming with JavaScript"
+⌛  At the moment, I am taking the Meta React Native Specialization series of courses
 
 ---
 
@@ -41,7 +41,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp 
 </div>
 
 ---
@@ -53,6 +53,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 | https://1drv.ms/b/s!Aie4Y9L_uV0sbHE4CQ8sofiI61o?e=gAv07W                                       | 08/2023 - 10/2023 |
 | https://1drv.ms/b/s!Aie4Y9L_uV0scntQwllDgTUG7iM?e=AXOHyw                                       | 11/2023 - 11/2023 |
 | https://1drv.ms/b/s!Aie4Y9L_uV0sczaX8IGXHYx3ZvU?e=Hb5TO6                                       | 11/2023 - 11/2023 |
+| https://1drv.ms/b/s!Aie4Y9L_uV0sdTF4zWWUzqxV_AQ?e=gmLv7T                                       | 11/2023 - 12/2023 |
 ---
 
 ### 💻 Codewars:
