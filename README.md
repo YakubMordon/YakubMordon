@@ -8,11 +8,11 @@ I am a beginner programmer. My journey in the field of IT began when I enrolled 
 
 From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At this point, my learning on this course is complete, and I am actively seeking job opportunities. In parallel, I am a third-year student, dedicated to expanding my knowledge through the .NET platform!
 
-🎓 Currently studying at the National University "Lviv Polytechnic."
+🎓 Currently studying at the National University "Lviv Polytechnic"
 
 🎉 Successfully completed the "Practical C#" course and Meta React Native Specialization!
 
-⌛  At the moment, I am taking the Meta Front-End Specialization series of courses and EPAM .NET Development course.
+⌛  At the moment, I am taking the Meta Front-End Specialization series of courses and EPAM .NET Development course
 
 ---
 
