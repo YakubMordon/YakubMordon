@@ -10,9 +10,9 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 🎓 Currently studying at the National University "Lviv Polytechnic."
 
-🎉 Successfully completed the "Practical C#" course!
+🎉 Successfully completed the "Practical C#" course and Meta React Native Specialization!
 
-⌛  At the moment, I am taking the Meta React Native Specialization series of courses.
+⌛  At the moment, I am taking the Meta Front-End Specialization series of courses.
 
 ---
 
@@ -59,6 +59,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 | https://1drv.ms/b/s!Aie4Y9L_uV0seWKVs2xS9OMMlqo?e=5ZhnJm                                       | 12/2023 - 12/2023 |
 | https://1drv.ms/b/s!Aie4Y9L_uV0sgQrO1TbI5x7O8AB6?e=6qxftc                                      | 12/2023 - 01/2024 |
 | https://1drv.ms/b/s!Aie4Y9L_uV0sgREJH5vUoDrlAntm?e=JroyBr                                      | 01/2024 - 01/2024 |
+| https://1drv.ms/b/s!Aie4Y9L_uV0sgRJy3aD6iRERzZ90?e=wgOLjq                                      | 01/2024 - 01/2024 |
 ---
 
 ### 💻 Codewars:
