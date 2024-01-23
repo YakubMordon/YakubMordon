@@ -12,7 +12,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 🎉 Successfully completed the "Practical C#" course and Meta React Native Specialization!
 
-⌛  At the moment, I am taking the Meta Front-End Specialization series of courses.
+⌛  At the moment, I am taking the Meta Front-End Specialization series of courses and EPAM .NET Development course.
 
 ---
 
