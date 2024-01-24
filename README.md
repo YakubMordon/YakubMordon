@@ -60,6 +60,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 | https://1drv.ms/b/s!Aie4Y9L_uV0sgQrO1TbI5x7O8AB6?e=6qxftc                                      | 12/2023 - 01/2024 |
 | https://1drv.ms/b/s!Aie4Y9L_uV0sgREJH5vUoDrlAntm?e=JroyBr                                      | 01/2024 - 01/2024 |
 | https://1drv.ms/b/s!Aie4Y9L_uV0sgRJy3aD6iRERzZ90?e=wgOLjq                                      | 01/2024 - 01/2024 |
+| https://1drv.ms/b/s!Aie4Y9L_uV0sgReroIWMpWSzm_LL?e=vYBNtJ                                      | 01/2024 - 01/2024 |
 ---
 
 ### 💻 Codewars:
