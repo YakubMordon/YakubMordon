@@ -42,6 +42,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp 
 </div>
 
 ---
@@ -61,6 +62,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 | https://1drv.ms/b/s!Aie4Y9L_uV0sgREJH5vUoDrlAntm?e=JroyBr                                      | 01/2024 - 01/2024 |
 | https://1drv.ms/b/s!Aie4Y9L_uV0sgRJy3aD6iRERzZ90?e=wgOLjq                                      | 01/2024 - 01/2024 |
 | https://1drv.ms/b/s!Aie4Y9L_uV0sgReroIWMpWSzm_LL?e=vYBNtJ                                      | 01/2024 - 01/2024 |
+| https://1drv.ms/b/s!Aie4Y9L_uV0sgRzl2E2Wqv5L53Pn?e=ESFkF3                                      | 01/2024 - 01/2024 |
 ---
 
 ### 💻 Codewars:
