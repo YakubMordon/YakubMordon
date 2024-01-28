@@ -4,9 +4,9 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a beginner programmer. My journey in the field of IT began when I enrolled at the National University "Lviv Polytechnic." After my first year, during which I dabbled in C, Python, and C++, I tried my hand at C#, and I absolutely loved it!
+I am a beginner programmer. My journey in the field of IT began when I enrolled at the National University "Lviv Polytechnic." After my first year, during which I dabbled in C, Python, Java and C++, I tried my hand at C#, and I absolutely loved it!
 
-From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At this point, my learning on this course is complete, and I am actively seeking job opportunities. In parallel, I am a third-year student, dedicated to expanding my knowledge through the .NET platform!
+From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At this point, my learning will never end, and I am actively seeking job opportunities. In parallel, I am a third-year student, dedicated to expanding my knowledge through the .NET platform!
 
 🎓 Currently studying at the National University "Lviv Polytechnic"
 
