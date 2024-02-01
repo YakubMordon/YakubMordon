@@ -49,7 +49,7 @@ From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At t
 
 ### 💻 Courses completed:
 
-| Courses                                                                                        | Date              |
+| Course Certificates                                                                            | Date              |
 | -----------------------------------------------------------------------------------------------| :---------------: |
 | https://1drv.ms/b/s!Aie4Y9L_uV0sbHE4CQ8sofiI61o?e=gAv07W                                       | 08/2023 - 10/2023 |
 | https://1drv.ms/b/s!Aie4Y9L_uV0scntQwllDgTUG7iM?e=AXOHyw                                       | 11/2023 - 11/2023 |
