@@ -4,15 +4,19 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a beginner programmer. My journey in the field of IT began when I enrolled at the National University "Lviv Polytechnic." After my first year, during which I dabbled in C, Python, Java and C++, I tried my hand at C#, and I absolutely loved it!
+I am a beginner programmer. My journey in the field of IT began when I enrolled at the National University "Lviv Polytechnic." After my first year, during which I dabbled in C, Python, and C++, I tried my hand at C#, and I absolutely loved it! 💖
 
-From May 2022 to June 2023, I embarked on a self-study journey to learn C#. At this point, my learning will never end, and I am actively seeking job opportunities. In parallel, I am a third-year student, dedicated to expanding my knowledge through the .NET platform!
+About a year after I started learning C#, I also became very interested in JavaScript. This led me to explore the JS world, particularly React libraries. From time to time, I write code in C++ and Java as well. 🌐
+
+From May 2022 to June 2023, I embarked on a self-study journey to learn C#. After that, I wanted to expand my knowledge through courses for C# Developers and React Developers. 🧑‍💻
+
+At this point, I have completed my learning courses, and I am actively working as a Trainee .NET Developer at Digital Cloud Technologies. 🎉
 
 🎓 Currently studying at the National University "Lviv Polytechnic"
 
 🎉 Successfully completed the "Practical C#" course, Meta React Native Specialization and Meta Front-End React Specialization!
 
-⌛  At the moment, I am taking EPAM .NET Development course
+⌛  At the moment, I am actively working as a Trainee .NET Developer at Digital Cloud Technologies. 🎉
 
 ---
 
