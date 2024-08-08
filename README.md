@@ -10,13 +10,13 @@ About a year after I started learning C#, I also became very interested in JavaS
 
 From May 2022 to June 2023, I embarked on a self-study journey to learn C#. After that, I wanted to expand my knowledge through courses for C# Developers and React Developers. 🧑‍💻
 
-At this point, I have completed my learning courses, and I am actively working as a Trainee .NET Developer at Digital Cloud Technologies. 🎉
+At this point, I have completed my learning courses, and I am actively working as a Junior .NET Developer at Digital Cloud Technologies. 🎉
 
 🎓 Currently studying at the National University "Lviv Polytechnic"
 
 🎉 Successfully completed the "Practical C#" course, Meta React Native Specialization and Meta Front-End React Specialization!
 
-⌛  At the moment, I am actively working as a Trainee .NET Developer at Digital Cloud Technologies. 🎉
+⌛  At the moment, I am actively working as a Junior .NET Developer at Digital Cloud Technologies. 🎉
 
 ---
 
