@@ -84,6 +84,9 @@ At this point, I have completed my learning courses, and I am actively working a
 <table>
   <tr>
     <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YakubMordon&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="YakubMordon's GitHub Stats" width="380"/>
+    </td>
+    <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=YakubMordon&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
