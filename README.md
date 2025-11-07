@@ -4,19 +4,15 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a beginner programmer. My journey in the field of IT began when I enrolled at the National University "Lviv Polytechnic." After my first year, during which I dabbled in C, Python, and C++, I tried my hand at C#, and I absolutely loved it! 💖
+💻 I’m a passionate .NET Developer with hands-on experience in both backend and frontend development. My journey in IT began at the National University “Lviv Polytechnic”, where I discovered my love for programming and built a strong foundation in C#, C++, and JavaScript.
 
-About a year after I started learning C#, I also became very interested in JavaScript. This led me to explore the JS world, particularly React libraries. From time to time, I write code in C++ and Java as well. 🌐
+🚀 From July 2024 to May 2025, I worked as a Junior .NET Developer at Digital Cloud Technologies, focusing on desktop application development using UWP, WinUI, and WPF. This experience strengthened my skills in building modern, responsive, and user-friendly Windows applications.
 
-From May 2022 to June 2023, I embarked on a self-study journey to learn C#. After that, I wanted to expand my knowledge through courses for C# Developers and React Developers. 🧑‍💻
+⚙️ From June 2025 to October 2025, I joined Sigma Software as a Strong Junior .NET Developer, where I worked in a full-stack role with .NET and React. I also gained valuable experience with Kubernetes, Redis, and Azure AI Search, contributing to cloud-based and scalable application development.
 
-At this point, I have completed my learning courses, and I am actively working as a Junior .NET Developer at Digital Cloud Technologies. 🎉
+🎓 I have successfully graduated from the National University “Lviv Polytechnic” and continue to grow my expertise in .NET and modern web technologies.
 
-🎓 Currently studying at the National University "Lviv Polytechnic"
-
-🎉 Successfully completed the "Practical C#" course, Meta React Native Specialization and Meta Front-End React Specialization!
-
-⌛  At the moment, I am actively working as a Junior .NET Developer at Digital Cloud Technologies. 🎉
+✨ I’m passionate about writing clean, maintainable code, learning new technologies, and delivering meaningful solutions that make an impact.
 
 ---
 
