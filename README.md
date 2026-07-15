@@ -1,18 +1,21 @@
-
 ### Hi, my name is Jacob!
 
 ---
 
 ### 👨‍💻 About Me:
-💻 I’m a passionate .NET Developer with hands-on experience in both backend and frontend development. My journey in IT began at the National University “Lviv Polytechnic”, where I discovered my love for programming and built a strong foundation in C#, C++, and JavaScript.
+💻 I'm a passionate .NET Developer with 2.5+ years of hands-on experience across backend, frontend, and desktop development. My journey in IT began at the National University "Lviv Polytechnic", where I discovered my love for programming and built a strong foundation in C#, C++, and JavaScript.
 
 🚀 From July 2024 to May 2025, I worked as a Junior .NET Developer at Digital Cloud Technologies, focusing on desktop application development using UWP, WinUI, and WPF. This experience strengthened my skills in building modern, responsive, and user-friendly Windows applications.
 
-⚙️ From June 2025 to October 2025, I joined Sigma Software as a Strong Junior .NET Developer, where I worked in a full-stack role with .NET and React. I also gained valuable experience with Kubernetes, Redis, and Azure AI Search, contributing to cloud-based and scalable application development.
+⚙️ From June 2025 to October 2025, I joined Sigma Software as a Strong Junior .NET Developer, where I worked in a full-stack role with ASP.NET, Entity Framework Core, React, and PostgreSQL, deploying and managing solutions on Microsoft Azure.
 
-🎓 I have successfully graduated from the National University “Lviv Polytechnic” and continue to grow my expertise in .NET and modern web technologies.
+🔁 From October 2025 to February 2026, I returned to Digital Cloud Technologies as a Junior .NET Developer, continuing to design and maintain scalable ASP.NET web applications with business logic and database integration.
 
-✨ I’m passionate about writing clean, maintainable code, learning new technologies, and delivering meaningful solutions that make an impact.
+🏢 Since February 2026, I've been working as a Strong Junior .NET Developer at Coherent Solutions, developing backend features with C#, ASP.NET Core, and Entity Framework Core for multiple client projects, while supporting full-stack delivery with TypeScript and building optimized RESTful APIs and SQL queries.
+
+🎓 I have successfully graduated from the National University "Lviv Polytechnic" with a Bachelor's degree in Computer Science.
+
+✨ I'm passionate about writing clean, maintainable code, learning new technologies, and delivering meaningful solutions that make an impact.
 
 ---
 
@@ -49,24 +52,25 @@
 
 ### 💻 Courses completed:
 
-| Course Certificates                                                                            | Date              |
-| -----------------------------------------------------------------------------------------------| :---------------: |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sbHE4CQ8sofiI61o?e=gAv07W                                       | 08/2023 - 10/2023 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0scntQwllDgTUG7iM?e=AXOHyw                                       | 11/2023 - 11/2023 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sczaX8IGXHYx3ZvU?e=Hb5TO6                                       | 11/2023 - 11/2023 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sdTF4zWWUzqxV_AQ?e=gmLv7T                                       | 11/2023 - 12/2023 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sdnGGnzKZBKtfdmc?e=YDpwxt                                       | 12/2023 - 12/2023 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sdyQp2Vh8YEU_oLw?e=Ohp5hw                                       | 12/2023 - 12/2023 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0seWKVs2xS9OMMlqo?e=5ZhnJm                                       | 12/2023 - 12/2023 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sgQrO1TbI5x7O8AB6?e=6qxftc                                      | 12/2023 - 01/2024 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sgREJH5vUoDrlAntm?e=JroyBr                                      | 01/2024 - 01/2024 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sgRJy3aD6iRERzZ90?e=wgOLjq                                      | 01/2024 - 01/2024 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sgReroIWMpWSzm_LL?e=vYBNtJ                                      | 01/2024 - 01/2024 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sgRzl2E2Wqv5L53Pn?e=ESFkF3                                      | 01/2024 - 01/2024 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sgR2cB6aWBQasYQC9?e=Mhpmw3                                      | 01/2024 - 01/2024 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sgSGXbJ-Yq_j6uJkm?e=w02T8G                                      | 01/2024 - 02/2024 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sgSIPRJSeGOdA0Qgr?e=A5yo7n                                      | 02/2024 - 02/2024 |
-| https://1drv.ms/b/s!Aie4Y9L_uV0sgSNQ3tu1cBxPZyfT?e=8esi8E                                      | 02/2024 - 02/2024 |
+| Course / Certificate                                                                                                          | Date              |
+| ------------------------------------------------------------------------------------------------------------------------------ | :---------------: |
+| [SoftServe Academy — Practical C#](https://1drv.ms/b/s!Aie4Y9L_uV0sbHE4CQ8sofiI61o?e=gAv07W)                                    | 08/2023 - 10/2023 |
+| [Meta — Introduction to Mobile Development](https://1drv.ms/b/s!Aie4Y9L_uV0scntQwllDgTUG7iM?e=AXOHyw)                          | 11/2023 - 11/2023 |
+| [Meta — Programming with JavaScript](https://1drv.ms/b/s!Aie4Y9L_uV0sczaX8IGXHYx3ZvU?e=Hb5TO6)                                 | 11/2023 - 11/2023 |
+| [Meta — Version Control](https://1drv.ms/b/s!Aie4Y9L_uV0sdTF4zWWUzqxV_AQ?e=gmLv7T)                                             | 11/2023 - 12/2023 |
+| [Meta — React Basics](https://1drv.ms/b/s!Aie4Y9L_uV0sdnGGnzKZBKtfdmc?e=YDpwxt)                                                | 12/2023 - 12/2023 |
+| [Meta — Introduction to Front-End Development](https://1drv.ms/b/s!Aie4Y9L_uV0sdyQp2Vh8YEU_oLw?e=Ohp5hw)                       | 12/2023 - 12/2023 |
+| [Meta — React Native](https://1drv.ms/b/s!Aie4Y9L_uV0seWKVs2xS9OMMlqo?e=5ZhnJm)                                                | 12/2023 - 12/2023 |
+| [Meta — Working With Data](https://1drv.ms/b/s!Aie4Y9L_uV0sgQrO1TbI5x7O8AB6?e=6qxftc)                                          | 12/2023 - 01/2024 |
+| [Meta — Principles of UX/UI Design](https://1drv.ms/b/s!Aie4Y9L_uV0sgREJH5vUoDrlAntm?e=JroyBr)                                 | 01/2024 - 01/2024 |
+| [Meta — Capstone (React App)](https://1drv.ms/b/s!Aie4Y9L_uV0sgRJy3aD6iRERzZ90?e=wgOLjq)                                       | 01/2024 - 01/2024 |
+| [Meta — HTML and CSS in depth](https://1drv.ms/b/s!Aie4Y9L_uV0sgReroIWMpWSzm_LL?e=vYBNtJ)                                      | 01/2024 - 01/2024 |
+| [Meta — Meta React Native Specialization](https://1drv.ms/b/s!Aie4Y9L_uV0sgRzl2E2Wqv5L53Pn?e=ESFkF3)                           | 01/2024 - 01/2024 |
+| [Meta — Advanced React](https://1drv.ms/b/s!Aie4Y9L_uV0sgR2cB6aWBQasYQC9?e=Mhpmw3)                                             | 01/2024 - 02/2024 |
+| [Meta — Front-End Developer Capstone](https://1drv.ms/b/s!Aie4Y9L_uV0sgSGXbJ-Yq_j6uJkm?e=w02T8G)                               | 02/2024 - 02/2024 |
+| [Meta — Coding Interview Preparation](https://1drv.ms/b/s!Aie4Y9L_uV0sgSIPRJSeGOdA0Qgr?e=A5yo7n)                                | 02/2024 - 02/2024 |
+| [Meta — Meta Front-End Developer Specialization](https://1drv.ms/b/s!Aie4Y9L_uV0sgSNQ3tu1cBxPZyfT?e=8esi8E)                    | 02/2024 - 02/2024 |
+
 ---
 
 ### 💻 Codewars:
