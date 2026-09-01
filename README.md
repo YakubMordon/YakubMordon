@@ -11,7 +11,7 @@
 
 🔁 From October 2025 to February 2026, I returned to Digital Cloud Technologies as a Junior .NET Developer, continuing to design and maintain scalable ASP.NET web applications with business logic and database integration.
 
-🏢 Since February 2026, I've been working as a Strong Junior .NET Developer at Coherent Solutions, developing backend features with C#, ASP.NET Core, and Entity Framework Core for multiple client projects, while supporting full-stack delivery with TypeScript and building optimized RESTful APIs and SQL queries.
+🏢 Since February 2026, I've been working as a .NET Developer at Coherent Solutions, developing backend features with C#, ASP.NET Core, and Entity Framework Core for multiple client projects, while supporting full-stack delivery with TypeScript and building optimized RESTful APIs and SQL queries.
 
 🎓 I have successfully graduated from the National University "Lviv Polytechnic" with a Bachelor's degree in Computer Science.
 
